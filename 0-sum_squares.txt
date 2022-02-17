@@ -1,0 +1,6 @@
+first take an input of the first number
+then take an input of the second number
+then square the first number or multiply the first number with it self
+similarly square the second number
+add the squares of the number
+and print out the sum

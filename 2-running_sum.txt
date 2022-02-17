@@ -1,0 +1,8 @@
+assign the variable x as 0 
+assign the variable input as 0
+a while loop as long as the input is not negative 
+	take a number as an input
+	add variable x with the input
+	assign the variable x with the preivous sum
+if input is negative
+print the variable x as the final sum
